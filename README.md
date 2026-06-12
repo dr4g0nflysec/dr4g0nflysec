@@ -1,3 +1,4 @@
+![Profile](profile_photo.jpeg)
 ### Hi there, I'm Marqo 👋
 
 Security researcher & CTF player.
