@@ -6,4 +6,4 @@ Security researcher. CTF player. Bug hunter.
 - 🔧 Tools: Burp Suite · Wireshark · nmap
 
 My setup 👇
-![setup](setup.jpg)
+![setup](setup.jpeg)
